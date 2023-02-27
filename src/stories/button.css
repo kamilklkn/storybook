@@ -7,7 +7,7 @@
   display: inline-block;
   line-height: 1;
   border-radius: 8px;
-  background: #FF4308;
+  
   border: 1px solid #FF4308;
   border-radius: 8px;
   border: 1.67px solid #FFFFFF;
@@ -15,7 +15,7 @@
 
 .storybook-button--primary {
   color: white;
-  background-color: #1ea7fd;
+  background: #FF4308;
 }
 .storybook-button--secondary {
   color: #333;
